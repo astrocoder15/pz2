@@ -1,0 +1,82 @@
+h2 {
+  font-family: 'Montserrat';
+  padding: 5rem 5rem;
+  font-weight: bolder;
+  position: relative;
+  display: inline-block;
+}
+
+.navbar {
+  border-radius: 5rem;
+  background-color: #8ac6d1;
+}
+
+.icon-navbar {
+  color: #9cada4;
+  font-size: 3rem;
+}
+
+ .nav-text-color {
+   color: #9cada4;
+ }
+
+.text-vid-intro {
+  padding-top: 1rem;
+}
+
+.toggler-color {
+  color: #4b5d67;
+}
+
+.nav-link:hover {
+  color: #b2ebf2;
+}
+
+.nav-item {
+  padding: 2rem;
+  font-family: 'Raleway', sans-serif;
+}
+
+.pz-vid-bg {
+  background-color: #b2ebf2;
+  padding: 1rem;
+  border-radius: 1rem;
+  position: relative;
+  top: 2.5rem;
+}
+
+.pz-video {
+  height: 23.5rem;
+  width: 40.1375rem;
+  position: relative;
+  top: 2.5rem;
+  display: inline-block;
+}
+
+.button {
+  background-color: white;
+  color:  #e71414;
+  padding: 1rem 2rem;
+  text-align: center;
+  display: inline-block;
+  font-size: 1.5rem;
+  margin: 0.25rem 0.125rem;
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  background-color: white;
+  color: #e71414;
+  border-radius: 0.5rem;
+  border: 2px solid #e71414
+}
+
+.button1:hover {
+  background-color: #e71414;
+  color: white;
+}
+
+.sm-gap-top {
+  position: relative;
+  top: 3rem;
+}
